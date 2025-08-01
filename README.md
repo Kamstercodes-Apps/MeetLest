@@ -25,4 +25,4 @@ The Licence of all Downloaders are in [MeetLest](https://meetleest.web.app/licen
 ## Developer
 
 Made with ♥️ by [Kamstercodes](https://kamstercodes.web.app)
-Any questions? Ask us on our E-Mail: **info.kamster@gmx.de**
+Any questions? Ask us on our E-Mail: info.kamster@gmx.de
